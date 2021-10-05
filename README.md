@@ -13,7 +13,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=joeljsv.joeljsv&style=flat-square&color=0088cc)
 
-I'm a student in Computer Science 🎓 from Kerala Technological University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore and learn new technologies and leverage them to solve real-life problems ✨.I'm currently into Fullstack Development and working on Data Structures and Algorithms 🤓.
+I'm a student in Computer Science 🎓 in Kerala Technological University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore and learn new technologies and leverage them to solve real-life problems ✨.I'm currently into Fullstack Development and working on Data Structures and Algorithms 🤓.
 
 Joined Github **3** years ago.
 
