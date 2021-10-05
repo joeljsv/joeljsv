@@ -20,7 +20,7 @@ Joined Github **3** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, Flutter, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with DSA in CPP, Nodejs, Express, Flutter, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 💬 &nbsp; Ask me about anything 
 - 👾 &nbsp; Fun fact: Coding can “power up” your brain.
