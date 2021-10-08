@@ -25,7 +25,7 @@ Joined Github **3** years ago.
 - 💬 &nbsp; Ask me about anything 
 - 👾 &nbsp; Fun fact: Coding can “power up” your brain.
 - 📫 &nbsp; How to reach me: joelsunny495@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](../Joel.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/joeljsv/joeljsv/blob/main/Joel.pdf).
 
 ### My Favorites:
 
