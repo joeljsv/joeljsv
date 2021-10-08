@@ -25,7 +25,7 @@ Joined Github **3** years ago.
 - 💬 &nbsp; Ask me about anything 
 - 👾 &nbsp; Fun fact: Coding can “power up” your brain.
 - 📫 &nbsp; How to reach me: joelsunny495@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]().
+- 📝 &nbsp; Checkout my [Resume](../Joel.pdf).
 
 ### My Favorites:
 
@@ -86,12 +86,10 @@ Joined Github **3** years ago.
   <br />
   <summary><b>⚙️ Things I use to get things done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Mac</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+  	    <li><b>OS:</b> Mac OS X</li>
+	    <li><b>Laptop: </b> MacBook Air M1 </li>
+  	    <li><b>Browser: </b> Chrome </li>
+	    <li><b>Code Editor:</b> VSCode </li>
 	    <br />
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
