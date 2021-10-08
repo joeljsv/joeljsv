@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m;+Joel+Sunny+Varghese!&center=true&size=40&color=55eb34">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+Joel.....;Nice+to+see+you....!&size=25">
   </a>
 </h1>
 
@@ -13,14 +13,14 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=joeljsv.joeljsv&style=flat-square&color=0088cc)
 
-I'm a student in Computer Science 🎓 from Kerala Technological University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore and learn new technologies and leverage them to solve real-life problems ✨.I'm currently into Fullstack Development and working on Data Structures and Algorithms 🤓.
+I'm a student in Computer Science 🎓 at Kerala Technological University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore and learn new technologies and leverage them to solve real-life problems ✨.I'm currently into Fullstack Development and working on Data Structures and Algorithms 🤓.
 
 Joined Github **3** years ago.
 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, Flutter, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with DSA in CPP, Nodejs, Express, Flutter, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 💬 &nbsp; Ask me about anything 
 - 👾 &nbsp; Fun fact: Coding can “power up” your brain.
@@ -35,7 +35,7 @@ Joined Github **3** years ago.
 
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">👨🏽‍💻 Languages & Frameworks & Tools 👨🏽‍💻</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
@@ -78,20 +78,18 @@ Joined Github **3** years ago.
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=joeljsv&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=joeljsv&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 
 <hr>
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get things done</b></summary>
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Mac OS X</li>
+  	  <li><b>OS:</b> Mac OS X</li>
 	    <li><b>Laptop: </b> MacBook Air M1 </li>
   	    <li><b>Browser: </b> Chrome </li>
 	    <li><b>Code Editor:</b> VSCode </li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
@@ -99,7 +97,7 @@ Joined Github **3** years ago.
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️  by starring ⭐️ some of the repositories!
 
 </div>
 <!--
