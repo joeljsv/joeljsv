@@ -15,7 +15,7 @@
 
 I'm a Computer Science Graduate from Kerala Technological University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore and learn new technologies and leverage them to solve real-life problems ✨.I'm currently into Fullstack Development and working on Data Structures and Algorithms 🤓.
 
-Joined Github **3** years ago.
+Joined Github **5** years ago.
 
 
 ### Talking about Personal Stuffs:
@@ -25,7 +25,6 @@ Joined Github **3** years ago.
 - 💬 &nbsp; Ask me about anything 
 - 👾 &nbsp; Fun fact: Coding can “power up” your brain.
 - 📫 &nbsp; How to reach me: joelsunny495@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/joeljsv/joeljsv/blob/main/Joel.pdf).
 
 ### My Favorites:
 
